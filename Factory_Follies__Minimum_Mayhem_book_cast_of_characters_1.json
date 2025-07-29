@@ -1,0 +1,332 @@
+{
+  "characters": [
+    {
+      "name": "Brenda",
+      "nickname": null,
+      "role": "HR Manager",
+      "archetype": "Incompetent (Overwhelmed Bureaucrat)",
+      "traits": [
+        "Perpetually stressed",
+        "Overwhelmed",
+        "Harried",
+        "Well-meaning but ineffective",
+        "Fueled by coffee and antacids",
+        "Prone to burnout",
+        "Becomes more vigilant and cynical over time"
+      ],
+      "backstory": "The sole member of the HR department, she is buried under a fortress of paperwork. Her job is less about human resources and more about damage control and navigating the factory's rampant chaos.",
+      "quirks": [
+        "Considers adding a 'How to Call 911' section to orientation",
+        "Maintains a crime scene kit in her office due to Calamity Carl",
+        "Was blackmailed with evidence of submitting her cat's vet bills as workplace injury claims"
+      ],
+      "alliances": [
+        "Management (nominally)",
+        "Stan (fellow survivor)"
+      ],
+      "conflicts": [
+        "The entire workforce's incompetence and corruption",
+        "Foreman Frankie",
+        "The Union",
+        "Efficiency Consultants"
+      ],
+      "key_actions": [
+        "Oversaw the 'Bottom of the Barrel' hiring spree",
+        "Dealt with the 'Incident Report Inferno' caused by Carl",
+        "Investigated the missing inventory, ultimately exposing Frankie",
+        "Was blackmailed into the 'Midnight Sausage' heist as the cover-up person",
+        "Fired Frankie and other scapegoats after the fallout"
+      ],
+      "dialogue_examples": [
+        "Are you seriously suggesting a pallet of sausages developed legs and wandered out of the warehouse?",
+        "Answers I don't have yet. Or maybe I have too many and they're all terrible.",
+        "Carl, come in here for a sec. Don't touch anything."
+      ],
+      "source_chapters": [
+        "1.1", "1.2", "1.3", "4.1", "4.2", "4.3", "6.1", "6.2", "8.1", "9.3", "10.1", "12.3", "13.1", "14.1", "14.2", "14.3", "15.1", "15.2", "15.3"
+      ]
+    },
+    {
+      "name": "Frankie Falzone",
+      "nickname": "Foreman Frankie",
+      "role": "Foreman",
+      "archetype": "Crime (Corrupt Official)",
+      "traits": [
+        "Shady",
+        "Corrupt",
+        "Sweaty",
+        "Nervous",
+        "Deceitful",
+        "Self-serving",
+        "Prone to emotional, drunken confessions"
+      ],
+      "backstory": "Deeply in debt to a mob-connected loan shark ('Big Tony') due to gambling (poker, ferret racing). Uses his position to steal inventory to pay off his debts.",
+      "quirks": [
+        "Carries a dented silver flask of cheap whiskey",
+        "Comes up with outlandish alibis (e.g., invisible widgets, sentient forklifts)",
+        "Wears ankle weights, claiming it's for 'performance enhancement'"
+      ],
+      "alliances": [
+        "His reluctant heist crew (Carl, Maria 'The Moth', Barry)",
+        "Sal the butcher (black market contact)"
+      ],
+      "conflicts": [
+        "Big Tony (Loan Shark)",
+        "Brenda (Investigator)",
+        "The Union",
+        "The Blood Sausage Boys and Pallet Pirates"
+      ],
+      "key_actions": [
+        "Systematically stole inventory for months",
+        "Orchestrated the 'Midnight Sausage' heist to pay off mob debts",
+        "Blackmailed several employees into helping him",
+        "Was exposed by Brenda and subsequently fired"
+      ],
+      "dialogue_examples": [
+        "Whatchu talkin’ ‘bout, Brenda? Everything’s copacetic here.",
+        "This whole damn factory… it'll chew you up and spit you out! You gotta… adapt! Innovate!",
+        "It's a working title! Got any better ideas, tough guy?"
+      ],
+      "source_chapters": [
+        "1.1", "1.3", "6.1", "6.2", "6.3", "7.3", "9.2", "10.1", "10.2", "10.3", "12.1", "12.2", "12.3", "14.1", "14.2", "14.3", "15.1", "15.2"
+      ]
+    },
+    {
+      "name": "Carl Peterson",
+      "nickname": "Calamity Carl",
+      "role": "Operator",
+      "archetype": "Incompetent (Accident-Prone)",
+      "traits": [
+        "Clumsy",
+        "Bewildered",
+        "Oblivious",
+        "Unlucky",
+        "Gullible",
+        "Not malicious, just a walking hazard"
+      ],
+      "backstory": "A human embodiment of entropy who exists on a different plane of reality where the laws of physics are mere suggestions. He is a constant source of incident reports.",
+      "quirks": [
+        "Managed to drive a forklift into a stack of pallets",
+        "Tripped over air, walked into stationary objects",
+        "Once microwaved a burrito for so long it set off the fire alarm",
+        "Believes in 'sausage diamonds'"
+      ],
+      "alliances": [
+        "Reluctant member of Frankie's heist crew"
+      ],
+      "conflicts": [
+        "All inanimate objects",
+        "OSHA regulations",
+        "The concept of cause-and-effect"
+      ],
+      "key_actions": [
+        "Caused the 'Incident Report Inferno'",
+        "Was the central figure in the 'OSHA's Worst Nightmare' inspection",
+        "Acted as the main diversion ('Symphony of Screw-ups') during the 'Midnight Sausage' heist",
+        "Was fired as a scapegoat after the investigation"
+      ],
+      "dialogue_examples": [
+        "Hey Brenda! What's up? Did I break something again?",
+        "Sausage diamonds…",
+        "Chin up, Frankie! Maybe tomorrow we can get a pizza for lunch? My treat!"
+      ],
+      "source_chapters": [
+        "4.1", "4.2", "4.3", "5.2", "8.3", "10.2", "11.1", "12.2", "12.3", "14.2", "15.2", "15.3"
+      ]
+    },
+    {
+      "name": "Tony Moretti",
+      "nickname": "Big Tony",
+      "role": "Union Enforcer / Mob-Connected Loan Shark",
+      "archetype": "Crime (Mob Muscle)",
+      "traits": [
+        "Imposing",
+        "Menacing",
+        "Intimidating",
+        "Persuasive (through threats)",
+        "Pragmatic"
+      ],
+      "backstory": "A figure with deep connections to both organized labor and organized crime. He acts as the 'muscle' for the unionization efforts while also running a loan sharking operation that has ensnared Foreman Frankie.",
+      "quirks": [
+        "Has 'boys' or 'associates' (like Vinny) who do his dirty work",
+        "Emanates an aura of quiet menace",
+        "Gives cryptic smiles and uses veiled threats"
+      ],
+      "alliances": [
+        "The Union (as muscle)",
+        "His criminal associates"
+      ],
+      "conflicts": [
+        "Management",
+        "Foreman Frankie (as a debtor)"
+      ],
+      "key_actions": [
+        "Visited the factory to 'encourage' unionization",
+        "Threatened Frankie to pay back his debts",
+        "Led negotiations for the union against management",
+        "Was scapegoated by the company for 'disruptive influences'"
+      ],
+      "dialogue_examples": [
+        "We're here about the… situation. The… unhappiness.",
+        "We're done here. The strike continues.",
+        "You got a problem, you come talk to Tony. Understand?"
+      ],
+      "source_chapters": [
+        "2.2", "5.3", "9.2", "9.3", "10.1", "12.1", "13.3", "14.3", "15.1", "15.2"
+      ]
+    },
+    {
+      "name": "Maria Rodriguez",
+      "nickname": "The Union Maiden",
+      "role": "Assembly Line Worker / Union Rep",
+      "archetype": "Rebel (Union Agitator)",
+      "traits": [
+        "Fiery",
+        "Passionate",
+        "Articulate",
+        "Fearless",
+        "Fiercely loyal to workers"
+      ],
+      "backstory": "A natural leader who took night classes and became the de facto voice and strategist for the union, fighting for better wages and working conditions. Develops a romance with Benny during the strike.",
+      "quirks": [
+        "Always carries a copy of the union contract in her back pocket",
+        "Has a surprisingly calming force amidst chaos",
+        "Makes legendary empanadas"
+      ],
+      "alliances": [
+        "The Union",
+        "Benny (romantic interest)",
+        "The general workforce"
+      ],
+      "conflicts": [
+        "Management (Mr. Henderson)",
+        "Foreman Frankie's corruption"
+      ],
+      "key_actions": [
+        "Became a key figure in organizing the union",
+        "Acted as a lead negotiator during the strike",
+        "Sabotaged production by mislabeling boxes",
+        "Formed a relationship with Benny on the picket line"
+      ],
+      "dialogue_examples": [
+        "Welcome to the fight, kid. You got rights. Don't let 'em forget it.",
+        "They think they can wear us down. But we're stronger than they think. We have to be.",
+        "Maybe if we actually trusted each other, you wouldn't have to worry about your wrench going missing."
+      ],
+      "source_chapters": [
+        "2.2", "5.1", "5.2", "9.3", "10.3", "13.3", "15.2"
+      ]
+    },
+    {
+      "name": "Dolores",
+      "nickname": "Queen of Smoko",
+      "role": "Breakroom Matriarch / Herbalist",
+      "archetype": "Cliques (Gossip Queen)",
+      "traits": [
+        "Gravelly-voiced",
+        "Cynical",
+        "All-knowing",
+        "Pragmatic",
+        "Master gossiper"
+      ],
+      "backstory": "The undisputed leader of the breakroom. She knows everyone's secrets and isn't afraid to use them. She also dabbles in herbal remedies, with catastrophic results.",
+      "quirks": [
+        "Permanently surrounded by a cloud of cigarette smoke",
+        "Dispenses cynical advice and dubious 'detox' cleanses",
+        "Herbal remedies tend to have explosive side-effects"
+      ],
+      "alliances": [
+        "The Smoko Clique"
+      ],
+      "conflicts": [
+        "Management's cheap coffee",
+        "Anyone who challenges her authority in the breakroom"
+      ],
+      "key_actions": [
+        "Runs the breakroom with an iron fist",
+        "Acts as a key distributor in the breakroom black market",
+        "Gave Marco the 'Caffeine Cleanse' that resulted in a biohazard situation"
+      ],
+      "dialogue_examples": [
+        "Kid, lemme give you some advice. The coffee here tastes like burnt socks, but it's better than working sober.",
+        "Now, Marco, don’t you worry your little head. There are natural ways to cleanse the system."
+      ],
+      "source_chapters": [
+        "2.2", "3.3", "7.2", "14.2"
+      ]
+    },
+    {
+      "name": "Barry Higgins",
+      "nickname": null,
+      "role": "HR Staff / Clique Wannabe",
+      "archetype": "Incompetent (Doormat)",
+      "traits": [
+        "Anxious",
+        "Desperate to fit in",
+        "Nervous",
+        "Ineffectual",
+        "Easily blackmailed"
+      ],
+      "backstory": "A perpetually uncomfortable HR employee who desperately wants to be part of the 'Smoko Clique' but is mostly ignored or tolerated. He was caught embezzling from the company softball fund.",
+      "quirks": [
+        "Puffs on a vape pen, much to the disgust of the real smokers",
+        "Reheats fish in the office microwave",
+        "Regrets every life choice that led him to his current situation"
+      ],
+      "alliances": [
+        "The Smoko Clique (in his dreams)",
+        "Reluctant member of Frankie's heist crew"
+      ],
+      "conflicts": [
+        "His own crippling anxiety",
+        "Frankie (as his blackmailer)"
+      ],
+      "key_actions": [
+        "Attempted to join the Smoko Clique",
+        "Was blackmailed by Frankie into scheduling a mandatory meeting as a diversion for the heist",
+        "Resigned due to 'stress-related toenail fungus' after the fallout"
+      ],
+      "dialogue_examples": [
+        "Frankie, perhaps we could discuss this later, in a more…private setting?",
+        "We have…employee assistance programs. Confidentiality is assured."
+      ],
+      "source_chapters": [
+        "1.1", "3.1", "4.2", "8.3", "10.2", "12.2", "15.1"
+      ]
+    },
+    {
+      "name": "Gus",
+      "nickname": "Grease Monkey",
+      "role": "Maintenance Technician",
+      "archetype": "Romantic Interest (Unrequited)",
+      "traits": [
+        "Well-meaning",
+        "Lovesick",
+        "Socially awkward",
+        "Skilled at maintenance (but not at expressing feelings)"
+      ],
+      "backstory": "A competent maintenance tech who has developed a powerful crush on Brenda from HR. He expresses his affection through 'helpful' acts of maintenance that invariably backfire.",
+      "quirks": [
+        "His love language is preventative maintenance",
+        "Smells vaguely of WD-40",
+        "Accidentally 'upgraded' Brenda's office equipment into unusable, high-powered machinery"
+      ],
+      "alliances": [
+        "His toolbox"
+      ],
+      "conflicts": [
+        "His own inability to communicate",
+        "Brenda's office equipment"
+      ],
+      "key_actions": [
+        "Attempted to woo Brenda by 'fixing' her chair, fan, and stapler with disastrous results"
+      ],
+      "dialogue_examples": [
+        "(Mumbling about) preventative maintenance."
+      ],
+      "source_chapters": [
+        "13.1"
+      ]
+    }
+  ]
+}
